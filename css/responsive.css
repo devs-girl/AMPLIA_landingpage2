@@ -1,0 +1,503 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1920px) {
+  .owl-item p {
+    /* font-size: 18px; */
+    /*! width: 60%; */
+  }
+  .owl-carousel .owl-nav div.owl-next {
+    right: 132px;
+  }
+  .vv--img2::before {
+    height: 285%;
+    width: 2px;
+    top: 80%;
+  }
+
+  .veem-slider {
+    max-width: 396px;
+  }
+  .veem-left {
+    padding-left: 20px;
+  }
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+  /* .owl-item p {
+    font-size: 18px;
+    width: 100%;
+  } */
+  .owl-carousel .owl-nav div.owl-next {
+    right: 132px;
+  }
+  .veja-item {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .veem-left h3 {
+    font-size: 30px;
+  }
+  .veem-left {
+    padding-left: 50px;
+  }
+  .tudo-wrapper {
+    height: 70vh;
+  }
+  .banner-area {
+    min-height: 70vh;
+  }
+}
+
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+  .navbar-collapse {
+    background: #c1e0cd;
+  }
+  .main-btn {
+    margin: 0px 30px;
+    width: 108px;
+    text-align: center;
+  }
+  .socio-icon {
+    margin: 0 20px;
+  }
+
+  /* r  */
+
+  .single-projeto p {
+    font-size: 12px;
+  }
+  .projeto-wrapper {
+    height: 50vh;
+  }
+  .banner-area {
+    min-height: 50vh;
+  }
+  .single-projeto {
+    height: auto;
+  }
+  .banner-text h1 {
+    font-size: 42px;
+    line-height: 45px;
+  }
+  .banner-text span {
+    font-size: 26px;
+    line-height: 30px;
+  }
+  .projeto-wrapper {
+    height: 70vh;
+  }
+  .headerlogo a img {
+    margin-bottom: 50px;
+  }
+  .single-projeto h3 {
+    font-size: 25px;
+  }
+  .arrow-icon-projeto img {
+    width: 125px;
+  }
+  .projecto-text {
+    margin-top: 0;
+  }
+  .single-projeto p {
+    line-height: 18px;
+  }
+  .section-title {
+    font-size: 30px;
+    margin-bottom: 33px;
+  }
+  .section-title-tudo {
+    font-size: 37px;
+    line-height: 37px;
+  }
+  .tudo-text span {
+    font-size: 21px;
+    line-height: 30px;
+  }
+  .veem-img::before {
+    left: 9%;
+  }
+  #carouselExample {
+    margin-top: 15px;
+  }
+  .carousel-control-next,
+  .carousel-control-prev {
+    width: 24%;
+  }
+  .carousel-control-prev-icon {
+    right: 83px;
+    top: -89px;
+  }
+
+  .pr-40 {
+    padding-right: 15px;
+  }
+  .pl-40 {
+    padding-left: 15px;
+  }
+  .single-projeto h3 {
+    margin-bottom: 10px;
+  }
+  .tudo-wrapper {
+    background-size: cover;
+    height: 50vh;
+    background-position: left;
+  }
+  .regi-img img {
+    width: 160px;
+  }
+  .veja-item {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  textarea {
+    width: 100%;
+  }
+  .veja-title p {
+    font-size: 25px;
+    line-height: 33px;
+  }
+  .item-title h2 {
+    font-size: 27px;
+  }
+  .veem-title {
+    left: 0%;
+  }
+  .veem-title p {
+    font-size: 25px;
+  }
+  .veem-left h3 {
+    font-size: 23px;
+  }
+  .veem-img img {
+    left: 0;
+  }
+
+  .veem-left-border {
+    margin-top: 50px;
+    padding-left: 6px;
+    padding-right: 37px;
+    max-width: 50%;
+  }
+  .vice {
+    line-height: 20px;
+    font-size: 15px;
+  }
+  .veem-left {
+    padding-left: 28px;
+  }
+  .veem-left {
+    max-width: 430px;
+  }
+
+  .owl-item p {
+    font-size: 15px;
+    padding-right: 0;
+  }
+  .vice {
+    margin-bottom: 25px;
+  }
+  .register-wrapper {
+    margin-bottom: 50px;
+    padding-top: 50px;
+  }
+  .veem-left-border {
+    margin-bottom: 0;
+    margin: 0 auto;
+  }
+  .vv--img2::before {
+    height: 285%;
+    width: 2px;
+    top: 80%;
+  }
+  .vv--img2 {
+    position: absolute;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    left: -106px;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  .veem-left {
+    padding-top: 113px;
+  }
+  .veem-left-border {
+    max-width: 70%;
+  }
+  .vv-img.vv--img2 img {
+    width: 76px;
+  }
+  .veem-left {
+    padding-left: 70px;
+  }
+
+  .vv-img.vv--img2 img {
+    margin-bottom: 400px;
+  }
+}
+
+/* SM Small Device :320px. */
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+  .veem-img::before {
+    display: none;
+  }
+  .veem-right img {
+    display: none;
+  }
+  .veem-img img {
+    display: none;
+  }
+  .headerlogo a img {
+    width: 150px;
+    margin-bottom: 100px;
+  }
+  .banner-area {
+    min-height: 50vh;
+  }
+  .headerlogo a img {
+    margin-bottom: 0;
+  }
+  .play {
+    width: 50px;
+    position: absolute;
+    top: 48%;
+    left: 47%;
+  }
+  .banner-text h1 {
+    font-size: 28px;
+    line-height: 30px;
+  }
+  .banner-titles {
+    max-width: 260px;
+  }
+  .banner-text span {
+    font-size: 17px;
+    line-height: 26px;
+  }
+  .banner-area {
+    height: auto;
+  }
+  .projeto-wrapper {
+    height: auto;
+    background-image: none;
+    background-color: #00947f;
+  }
+  .section-title {
+    font-size: 20px;
+  }
+  .arrow-icon-projeto img {
+    width: 70px;
+  }
+  .single-projeto h3 {
+    font-size: 20px;
+    margin-bottom: 0;
+  }
+  .single-projeto p {
+    font-size: 14px;
+    line-height: 17px;
+  }
+  .pr-40 {
+    padding-right: 0;
+  }
+  .pl-40 {
+    padding-left: 0;
+  }
+  .projeto-wrapper {
+    padding: 30px 0;
+  }
+  .section-title {
+    margin-bottom: 0;
+  }
+  .projecto-text {
+    display: block;
+    margin-top: 0;
+  }
+  .arrow-icon-projeto img {
+    display: none;
+  }
+  .tudo-wrapper {
+    background: #7c00a6;
+  }
+  /* .tudo-wrapper  */
+  .tudo-wrapper {
+    height: 60vh;
+    padding: 30px 0;
+    margin-top: -20px;
+  }
+  .section-title-tudo {
+    font-size: 23px;
+    line-height: 30px;
+  }
+  .tudo-text span {
+    font-size: 14px;
+  }
+  .tudo-title {
+    max-width: 230px;
+  }
+  .tudo-text {
+    width: 100%;
+    padding: 25px 0;
+  }
+  .register-wrapper {
+    display: block;
+    padding-top: 50px;
+  }
+  .regi-text {
+    font-size: 19px;
+    line-height: 28px;
+    margin-bottom: 30px;
+  }
+  .regi-img img {
+    display: none;
+  }
+  .register-wrapper {
+    margin-bottom: 50px;
+  }
+  .veja-title p {
+    font-size: 16px;
+    line-height: 25px;
+  }
+  .veja-title {
+    top: -50px;
+  }
+  .veja-item {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .item-title h2 {
+    font-size: 24px;
+    margin: 0;
+  }
+  .item-title span {
+    font-size: 15px;
+  }
+  .item-text p {
+    font-size: 12px;
+  }
+  .item-text h4 {
+    font-size: 14px;
+  }
+  .vv-img img {
+    width: 50px;
+  }
+  .veem-box {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .veem-title {
+    max-width: 100%;
+    left: 0;
+  }
+
+  .veem-title p {
+    font-size: 12px;
+    line-height: 26px;
+  }
+  .veem-left-border {
+    margin-top: 48px;
+  }
+  .veem-left h3 {
+    font-size: 16px;
+    max-width: 300px;
+  }
+  .veem-img img {
+    top: -103px;
+    left: 19px;
+    width: 60px;
+  }
+  .veem-img::before {
+    left: 19%;
+  }
+  .veem-left-border {
+    padding: 40px 30px;
+    /*! max-width: 100%; */
+    text-align: center;
+  }
+  .veem-img::before {
+    height: 33%;
+    left: 13%;
+    transform: translate(-50%, -50%);
+  }
+  .veem-left span {
+    font-size: 16px;
+  }
+  .vice {
+    max-width: 300px;
+    margin-bottom: 16px;
+    font-size: 14px;
+  }
+
+  .veem-left {
+    padding-left: 0;
+  }
+  .owl-carousel .owl-nav div {
+    left: 0;
+  }
+  .owl-carousel .owl-nav div.owl-next {
+    right: 0;
+  }
+  .owl-item p {
+    font-size: 14px;
+    max-width: 292px;
+    text-align: center;
+  }
+  /* login  */
+  .headerlogo-login img {
+    width: 170px;
+  }
+  .login-title h3 {
+    font-size: 20px;
+  }
+  .login-title p {
+    font-size: 12px;
+  }
+  .login-field-wrapper {
+    width: 100%;
+  }
+  .veem-box {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .owl-item p {
+    padding: 0 42px;
+    text-align: center;
+    /*! margin: 0 auto; */
+    /*! padding-right: 50px; */
+  }
+  .vv-img.vv--img2 img {
+    display: none;
+  }
+  textarea {
+    width: 100%;
+  }
+  .veem-title {
+    top: -27px;
+  }
+
+  .owl-next {
+    left: auto !important;
+    right: 0 !important;
+  }
+  .single-projeto {
+    border-right: 0;
+    height: auto;
+  }
+  .single-projeto {
+    text-align: left;
+  }
+  .veem-left-border {
+    max-width: 100vw;
+  }
+
+  .navbar > .container,
+  .navbar > .container-fluid,
+  .navbar > .container-lg,
+  .navbar > .container-md,
+  .navbar > .container-sm,
+  .navbar > .container-xl,
+  .navbar > .container-xxl {
+    padding: 20px 0 !important;
+  }
+}
+
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+}
